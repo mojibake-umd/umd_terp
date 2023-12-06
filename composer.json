@@ -21,8 +21,8 @@
     "require": {
       "drupal/twig_tweak": "*",
       "drupal/twig_field_value": "*",
-      "umd_digital/umd_terp_base": "*",
-      "umd_digital/umd_schoolwide_header": "*"
+      "umd/umd_terp_base": "*",
+      "umd/umd_schoolwide_header": "*"
     },
     "support": {
       "issues": "https://github.com/UMD-Digital/umd_terp/issues",
