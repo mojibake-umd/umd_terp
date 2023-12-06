@@ -4,7 +4,7 @@
     "description": "UMD Terp is the base theme for all UMD drupal 8 projects.",
     "keywords": ["Drupal"],
     "license": "GPL-2.0+",
-    "homepage": "https://github.com/UMD-Digital/umd_terp",
+    "homepage": "https://github.com/umdsais/umd_terp",
     "minimum-stability": "dev",
     "authors": [
       {
@@ -25,7 +25,7 @@
       "umd/umd_schoolwide_header": "*"
     },
     "support": {
-      "issues": "https://github.com/UMD-Digital/umd_terp/issues",
-      "source": "https://github.com/UMD-Digital/umd_terp/"
+      "issues": "https://github.com/umdsais/umd_terp/issues",
+      "source": "https://github.com/umdsais/umd_terp/"
     }
 }
